@@ -1,6 +1,6 @@
 first repo
 ----------
 
-[![ci](https://github.com/rdice1/RobVitHelp/actions/workflows/ci.yml/badge.svg)](https://github.com/rdice1/RobVitHelp/actions/workflows/ci.yml)
+[![.NET Core Desktop](https://github.com/rdice1/RobVitHelp/actions/workflows/dotnet-desktop.yml/badge.svg)](https://github.com/rdice1/RobVitHelp/actions/workflows/dotnet-desktop.yml)
 
 Hello World - first CI demo
